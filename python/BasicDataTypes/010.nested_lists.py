@@ -1,4 +1,4 @@
-# Program: Nested Lists
+# Problem: https://www.hackerrank.com/challenges/nested-list
 # Programmer: Md.Ashraful Haque
 # Date: 27.03.2024
 
@@ -35,22 +35,3 @@ for name,grade in students[1:]:
 second_lowest.sort()
 for name in second_lowest:
     print(name)
-
-
-
-"""
-Given the names and grades for each student in a class of N students, 
-store them in a nested list and 
-print the name(s) of any student(s) having the second lowest grade.
-
-Input Format: 
-The first line contains an integer,N, the number of students.
-The subsequent lines describe each student over 2N lines.
-- The first line contains a student's name.
-- The second line contains their grade.
-
-Output Format:
-Print the name(s) of any student(s) having the second lowest grade in. 
-If there are multiple students, order their names alphabetically and 
-print each one on a new line.
-"""

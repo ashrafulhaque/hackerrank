@@ -1,4 +1,4 @@
-# Program: Finding the percentage
+# Problem: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 # Programmer: Md. Ashraful Haque
 # Date: 02.04.2024
 

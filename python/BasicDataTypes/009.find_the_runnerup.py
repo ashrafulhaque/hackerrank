@@ -1,4 +1,4 @@
-# Program: Find the runner up score
+# Problem: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list
 # Programmer: Md.Ashraful Haque
 # Date: 26.03.2024
 
