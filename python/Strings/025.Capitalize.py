@@ -14,13 +14,9 @@ def solve(s):
          
 def main():
     fptr = open("capitalize.txt", 'w')
-
     s = input()
-
     result = solve(s)
-
     fptr.write(result + '\n')
-
     fptr.close()
 
 main()
