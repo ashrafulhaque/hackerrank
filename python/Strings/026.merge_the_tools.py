@@ -1,4 +1,4 @@
-# Problem: https://www.hackerrank.com/challenges/merge-the-tools/
+# Problem: https://www.hackerrank.com/challenges/merge-the-tools/problem
 # Programmer: Md. Ashraful Haque
 # Date: 19.04.2024
 

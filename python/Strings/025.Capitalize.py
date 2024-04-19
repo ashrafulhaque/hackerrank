@@ -1,4 +1,4 @@
-# Problem: https://www.hackerrank.com/challenges/capitalize
+# Problem: https://www.hackerrank.com/challenges/capitalize/problem
 # Programmer: Md. Ashraful Haque
 # Date: 18.04.2024
 
